@@ -1,4 +1,4 @@
-#include <stdio.h>
+#include <stdio.h>//calculator
 float inverse(int i){
 	return 1/i;
 }
